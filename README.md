@@ -1,5 +1,6 @@
 # HTTP-Proxy-Server
-Syntax: python mproxy.py <options> <port number>
+
+        Syntax: python mproxy.py <options> <port number>
 
         HTTP Proxy Server
         Options:
